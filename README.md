@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Anand%20Kumar&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&section=header" />
 # 💫 Hi 👋, I'm Anand Kumar
 **An aspiring GenAI Engineer || Python || LLM || RAG**
 
@@ -24,5 +25,7 @@
 
 ---
 ![](https://komarev.com/ghpvc/?username=AnandKumar0824&color=blue)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=100&section=footer&text=Thanks%20for%20Visiting%20👋🏻&fontSize=25&fontColor=61DAFB&animation=twinkling" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
